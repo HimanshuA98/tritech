@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gas Detectors Manufacturer India | Tritech Gas Safety Solutions</title>
+    <meta name="description" content="Leading manufacturer of reliable gas detectors in India. Explore Tritech’s range of portable and fixed gas detection systems for workplace safety." />
+    <meta name="keywords" content="Gas Detectors, Portable Gas Detector, Multi Gas Detector, Gas Detection India, Industrial Gas Detector" />
+    <style>
+        body {font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333;}
+        header {background: #005b96; color: white; padding: 20px 40px; text-align: center;}
+        nav a {color: white; margin: 0 15px; text-decoration: none; font-weight: bold;}
+        main {max-width: 1100px; margin: 30px auto; padding: 0 20px;}
+        h1, h2 {color: #005b96;}
+        .product {background: white; padding: 20px; margin-bottom: 20px; border-radius: 5px;}
+        img {max-width: 100%; height: auto; border-radius: 5px;}
+        footer {background: #222; color: #ccc; text-align: center; padding: 15px 0; margin-top: 40px;}
+        @media (max-width: 600px) {
+            header, main {padding: 10px;}
+            nav a {display: block; margin: 10px 0;}
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Tritech Gas Detectors</h1>
+    <nav>
+        <a href="#products">Products</a>
+        <a href="#about">About Us</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<main>
+    <section id="intro">
+        <h2>Reliable Gas Detection Solutions in India</h2>
+        <p>Tritech is a leading manufacturer of high-quality gas detectors designed to ensure workplace safety across industries. Our range includes portable multi-gas detectors, fixed gas detection systems, and customized safety solutions tailored to your needs.</p>
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+
+        <article class="product">
+            <h3>Portable Multi Gas Detector - GX-3R</h3>
+            <img src="https://www.tritech.in/images/products/gx3r.jpg" alt="Tritech GX-3R portable multi gas detector" />
+            <p>The GX-3R is a rugged, lightweight multi-gas detector that detects oxygen, combustible gases, and toxic gases simultaneously. Ideal for industrial safety and compliance.</p>
+            <ul>
+                <li>Detects up to 4 gases simultaneously</li>
+                <li>Easy-to-read LCD display</li>
+                <li>Long battery life for extended use</li>
+            </ul>
+        </article>
+
+        <article class="product">
+            <h3>Fixed Gas Detection System - Model FX-500</h3>
+            <img src="https://www.tritech.in/images/products/fx500.jpg" alt="Tritech FX-500 fixed gas detection system" />
+            <p>The FX-500 fixed gas detection system offers continuous monitoring for hazardous gases in industrial environments, ensuring early warning and prevention of accidents.</p>
+            <ul>
+                <li>24/7 monitoring</li>
+                <li>High sensitivity sensors</li>
+                <li>Customizable alarm settings</li>
+            </ul>
+        </article>
+    </section>
+
+    <section id="about">
+        <h2>About Tritech</h2>
+        <p>With over 20 years of experience in gas detection technology, Tritech is committed to delivering advanced safety solutions. Our products meet international standards and are trusted by industries nationwide.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@tritech.in</p>
+        <p>Phone: +91-12345-67890</p>
+        <p>Address: 123 Industrial Zone, Mumbai, India</p>
+    </section>
+</main>
+
+<footer>
+    &copy; 2025 Tritech Gas Detectors. All rights reserved.
+</footer>
+
+</body>
+</html>
